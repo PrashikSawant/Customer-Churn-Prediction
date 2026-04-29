@@ -71,3 +71,12 @@ Customer-Churn-Prediction/
 │── churn_analysis.ipynb
 │── WA_Fn-UseC_-Telco-Customer-Churn.csv
 │── README.md
+
+
+---
+
+## 📬 Future Improvements
+- Apply SMOTE or class balancing techniques  
+- Hyperparameter tuning  
+- Try advanced models (XGBoost, Gradient Boosting)  
+- Deploy as a web app for real-time predictions  
