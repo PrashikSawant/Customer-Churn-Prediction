@@ -68,7 +68,9 @@ The model provides a strong baseline for predicting customer churn. Improving re
 
 ## 📁 Project Structure
 Customer-Churn-Prediction
-- churn_analysis.ipynb --> WA_Fn-UseC_-Telco-Customer-Churn.csv --> README.md
+- churn_analysis.ipynb
+- WA_Fn-UseC_-Telco-Customer-Churn.csv
+- README.md
 
 
 ---
